@@ -2,7 +2,7 @@
 
 Public papers and formalization results of Mathesis, operated by Chrono AI.
 
-Snapshot time: `2026-11-13T07:27:11.328211193Z` UTC. Counts cover current public versions of in-scope collected works. Each scope sentence describes the counted set.
+Snapshot time: `2026-11-13T13:48:44.252851893Z` UTC. Counts cover current public versions of in-scope collected works. Each scope sentence describes the counted set.
 
 | Metric | Count | Scope |
 |---|---:|---|
@@ -37,4 +37,4 @@ None yet.
 - [Bajnok–Beatty Conjectures 4.1 and 1.6 (arXiv:2406.04045v1, Section 4, p. 10; Section 1, p. 3): classification and extremal noncyclic order](https://mathesis-omega-research.apps.chrono-ai.fun/papers/bajnok-beatty-original-conjecture-4-1?version=2) — 2026-11-05
 - [Proofs of Okada's Conjectures 9.63 and 9.64 with constant-base-shift extensions (arXiv:2003.02112v2, Section 9.8.3)](https://mathesis-omega-research.apps.chrono-ai.fun/papers/okada-2020-premerged-determinant-nonpalindromic?version=2) — 2026-11-05
 
-[Full catalog](https://github.com/mathesis-papers/catalog) · [Mathesis site](https://mathesis-omega-research.apps.chrono-ai.fun) · [Formalization directory](https://mathesis-omega-research.apps.chrono-ai.fun/formalizations)
+[Full catalog](https://github.com/mathesis-papers/catalog) · [Formalization repository](https://github.com/mathesis-papers/formalization) · [Mathesis site](https://mathesis-omega-research.apps.chrono-ai.fun) · [Formalization directory](https://mathesis-omega-research.apps.chrono-ai.fun/formalizations)
