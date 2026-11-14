@@ -2,7 +2,7 @@
 
 Public papers and formalization results of Mathesis, operated by Chrono AI.
 
-Snapshot time: `2026-11-13T18:50:00.764839846Z` UTC. Counts cover current public versions of in-scope collected works. Each scope sentence describes the counted set.
+Snapshot time: `2026-11-14T03:29:30.68262695Z` UTC. Counts cover current public versions of in-scope collected works. Each scope sentence describes the counted set.
 
 | Metric | Count | Scope |
 |---|---:|---|
