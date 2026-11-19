@@ -2,23 +2,23 @@
 
 Public papers and formalization results of Mathesis, operated by Chrono AI.
 
-Snapshot time: `2026-11-19T12:48:54.587372284Z` UTC. Counts cover current public versions of in-scope archive works. Each scope sentence describes the counted set.
+Snapshot time: `2026-11-19T13:30:07.158726216Z` UTC. Counts cover current public versions of in-scope archive works. Each scope sentence describes the counted set.
 
 | Metric | Count | Scope |
 |---|---:|---|
-| Public papers | 51 | in-scope collected works and exactly consented accepted author papers |
-| Registered statements | 327 | in-scope nodes of selected versions, deduplicated by identity |
+| Public papers | 53 | in-scope collected works and exactly consented accepted author papers |
+| Registered statements | 345 | in-scope nodes of selected versions, deduplicated by identity |
 | Independently verified statements | 0 | in-scope nodes with an exact target and matching public receipt |
 | Verified from existing library declarations | 0 | in-scope verified nodes whose receipt basis is library declarations |
 | Verified with new Lean | 0 | in-scope verified nodes whose receipt basis is new Lean |
 | Verified counterexamples / disproofs | 0 | in-scope public disproof receipts, counted separately |
 | Open formalization targets | 0 | in-scope confirmed targets without a verified proof |
-| Statements awaiting a formal target | 327 | in-scope nodes without a confirmed target; needs-attention subset: 306 |
-| Papers with Lean source | 51 | in-scope papers with an exact-commit paper-level source link |
+| Statements awaiting a formal target | 345 | in-scope nodes without a confirmed target; needs-attention subset: 306 |
+| Papers with Lean source | 53 | in-scope papers with an exact-commit paper-level source link |
 | Papers with a DOI | 47 | in-scope papers with a checked exact-version DOI in the public projection |
 
 
-No in-scope work carries an MSC code; 51 in-scope papers are unclassified.
+No in-scope work carries an MSC code; 53 in-scope papers are unclassified.
 
 ## Recent verified statements
 
@@ -26,6 +26,8 @@ None yet.
 
 ## Recent papers
 
+- [Answering the finite-outcome question of Aloy et al. (2024), arXiv:2312.09278v2, end of §IV.B.3, p. 17: an extension of their binary spin-one theorem](https://mathesis-omega-research.apps.chrono-ai.fun/papers/spin-one-rotation-boxes?version=2) — 2026-11-19
+- [Bounded-error asymptotics for Bernáth's conjecture: OEIS A400645, revision 21, COMMENTS, and its rounded-norm siblings](https://mathesis-omega-research.apps.chrono-ai.fun/papers/bernath-a400645-consecutive-ratio?version=2) — 2026-11-19
 - [Refuting Dovgoshey–Rovenska Conjecture 4.2, arXiv:2610.11596v1, Section 4, p. 13: sharp bounds and corollaries of Petrov (2022) and Dovgoshey et al. (2026)](https://mathesis-omega-research.apps.chrono-ai.fun/papers/central-edges?version=3) — 2026-11-19
 - [Refutation and correction of Theorem 2.10 (Conjectured), arXiv:1404.0484v1, Section 2, page 7: extensions of Patel (2026) and Raso–Kok (2026)](https://mathesis-omega-research.apps.chrono-ai.fun/papers/kok-jaco-addition-law-refutation?version=3) — 2026-11-19
 - [Extending Sun–Luo–Ye bounds to refute Abbott et al.'s pointer-product conjecture](https://mathesis-omega-research.apps.chrono-ai.fun/papers/abbott-2019-sequential-weak-pointer-bound?version=2) — 2026-11-14
@@ -34,7 +36,5 @@ None yet.
 - [A twin-free answer to Alfuraidan–Khan–Sauras-Altuzarra, arXiv:2610.26875v1, Section 9, Problem 30 (p. 27): a spectral extension of Knor–Sedlar–Škrekovski (2022)](https://mathesis-omega-research.apps.chrono-ai.fun/papers/aks2610-twin-free-theta-separation?version=2) — 2026-11-14
 - [Quantitative null tensor summands for He–Tubbenhauer’s Conjecture 4.2 (arXiv:2508.04054v1, p. 17): extending their 2025 theorem](https://mathesis-omega-research.apps.chrono-ai.fun/papers/he-tubbenhauer-2025-null-tensor-summand?version=2) — 2026-11-14
 - [A cubic counterexample at Schnell–Ketzmerick–Eckardt (2018, Sec. V, p. 11, Eq. (55)), and an extension of their Ohmic bound](https://mathesis-omega-research.apps.chrono-ai.fun/papers/schnell-ketzmerick-eckardt-2018-bose-selection-cubic-refutation?version=2) — 2026-11-14
-- [Extensions of Knuth's coefficient families (1993), with corrected OEIS links: Werner's conjecture in OEIS A208509, Formula, revision 28](https://mathesis-omega-research.apps.chrono-ai.fun/papers/oeis-a208509-affine-polynomial-pair-binomial-coefficients?version=2) — 2026-11-14
-- [Zero-mode corrections and closed bubble counts in Mukherjee et al. (2021, Sec. III, p. 7, third paragraph): extending Hoshino (2007) and Brown–Hoshino (2008)](https://mathesis-omega-research.apps.chrono-ai.fun/papers/mukherjee-banerjee-sengupta-sen-2021-bubble-eigenstate-degeneracy?version=3) — 2026-11-14
 
 [Full catalog](https://github.com/mathesis-papers/catalog) · [Formalization repository](https://github.com/mathesis-papers/formalization) · [Mathesis site](https://mathesis-omega-research.apps.chrono-ai.fun) · [Formalization directory](https://mathesis-omega-research.apps.chrono-ai.fun/formalizations)
