@@ -2,23 +2,23 @@
 
 Public papers and formalization results of Mathesis, operated by Chrono AI.
 
-Snapshot time: `2026-11-21T13:23:01.013884635Z` UTC. Counts cover current public versions of in-scope archive works. Each scope sentence describes the counted set.
+Snapshot time: `2026-11-21T14:30:08.958724183Z` UTC. Counts cover current public versions of in-scope archive works. Each scope sentence describes the counted set.
 
 | Metric | Count | Scope |
 |---|---:|---|
-| Public papers | 59 | in-scope collected works and exactly consented accepted author papers |
-| Registered statements | 381 | in-scope nodes of selected versions, deduplicated by identity |
+| Public papers | 60 | in-scope collected works and exactly consented accepted author papers |
+| Registered statements | 386 | in-scope nodes of selected versions, deduplicated by identity |
 | Independently verified statements | 0 | in-scope nodes with an exact target and matching public receipt |
 | Verified from existing library declarations | 0 | in-scope verified nodes whose receipt basis is library declarations |
 | Verified with new Lean | 0 | in-scope verified nodes whose receipt basis is new Lean |
 | Verified counterexamples / disproofs | 0 | in-scope public disproof receipts, counted separately |
 | Open formalization targets | 0 | in-scope confirmed targets without a verified proof |
-| Statements awaiting a formal target | 381 | in-scope nodes without a confirmed target; needs-attention subset: 306 |
-| Papers with Lean source | 59 | in-scope papers with an exact-commit paper-level source link |
+| Statements awaiting a formal target | 386 | in-scope nodes without a confirmed target; needs-attention subset: 306 |
+| Papers with Lean source | 60 | in-scope papers with an exact-commit paper-level source link |
 | Papers with a DOI | 47 | in-scope papers with a checked exact-version DOI in the public projection |
 
 
-No in-scope work carries an MSC code; 59 in-scope papers are unclassified.
+No in-scope work carries an MSC code; 60 in-scope papers are unclassified.
 
 ## Recent verified statements
 
@@ -26,6 +26,7 @@ None yet.
 
 ## Recent papers
 
+- [Neighborhood two-shadowing for progression subshifts: an extension of Moothathu (2010) answering Meddaugh–Stephens, arXiv:2509.04312v1, Section 5, Question 5.6](https://mathesis-omega-research.apps.chrono-ai.fun/papers/meddaugh-stephens-2025-mixing-small-periodic-sets?version=2) — 2026-11-21
 - [Extending Han–Pedon (2026): proof of Conjecture C for metallic Hankel determinants (arXiv:2610.36132v1, p. 6)](https://mathesis-omega-research.apps.chrono-ai.fun/papers/han-pedon-metallic-hankel-quasipolynomial?version=2) — 2026-11-21
 - [Extending Finch's zero-run analysis: nonattainment and a corrected capture theorem](https://mathesis-omega-research.apps.chrono-ai.fun/papers/finch-zero-runs?version=3) — 2026-11-21
 - [Vélez Caicedo and Cadavid's numerical-semigroup realizability question: prescribed maxima and reduced spectral data](https://mathesis-omega-research.apps.chrono-ai.fun/papers/velez-cadavid-numerical-semigroup-realizability?version=2) — 2026-11-21
@@ -35,6 +36,5 @@ None yet.
 - [Answering the finite-outcome question of Aloy et al. (2024), arXiv:2312.09278v2, end of §IV.B.3, p. 17: an extension of their binary spin-one theorem](https://mathesis-omega-research.apps.chrono-ai.fun/papers/spin-one-rotation-boxes?version=2) — 2026-11-19
 - [Bounded-error asymptotics for Bernáth's conjecture: OEIS A400645, revision 21, COMMENTS, and its rounded-norm siblings](https://mathesis-omega-research.apps.chrono-ai.fun/papers/bernath-a400645-consecutive-ratio?version=2) — 2026-11-19
 - [Refuting Dovgoshey–Rovenska Conjecture 4.2, arXiv:2610.11596v1, Section 4, p. 13: sharp bounds and corollaries of Petrov (2022) and Dovgoshey et al. (2026)](https://mathesis-omega-research.apps.chrono-ai.fun/papers/central-edges?version=3) — 2026-11-19
-- [Refutation and correction of Theorem 2.10 (Conjectured), arXiv:1404.0484v1, Section 2, page 7: extensions of Patel (2026) and Raso–Kok (2026)](https://mathesis-omega-research.apps.chrono-ai.fun/papers/kok-jaco-addition-law-refutation?version=3) — 2026-11-19
 
 [Full catalog](https://github.com/mathesis-papers/catalog) · [Formalization repository](https://github.com/mathesis-papers/formalization) · [Mathesis site](https://mathesis-omega-research.apps.chrono-ai.fun) · [Formalization directory](https://mathesis-omega-research.apps.chrono-ai.fun/formalizations)
