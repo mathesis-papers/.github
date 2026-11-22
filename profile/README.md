@@ -2,23 +2,23 @@
 
 Public papers and formalization results of Mathesis, operated by Chrono AI.
 
-Snapshot time: `2026-11-22T18:07:21.530204334Z` UTC. Counts cover current public versions of in-scope archive works. Each scope sentence describes the counted set.
+Snapshot time: `2026-11-22T21:18:16.236735879Z` UTC. Counts cover current public versions of in-scope archive works. Each scope sentence describes the counted set.
 
 | Metric | Count | Scope |
 |---|---:|---|
-| Public papers | 72 | in-scope collected works and exactly consented accepted author papers |
-| Registered statements | 494 | in-scope nodes of selected versions, deduplicated by identity |
+| Public papers | 74 | in-scope collected works and exactly consented accepted author papers |
+| Registered statements | 506 | in-scope nodes of selected versions, deduplicated by identity |
 | Independently verified statements | 0 | in-scope nodes with an exact target and matching public receipt |
 | Verified from existing library declarations | 0 | in-scope verified nodes whose receipt basis is library declarations |
 | Verified with new Lean | 0 | in-scope verified nodes whose receipt basis is new Lean |
 | Verified counterexamples / disproofs | 0 | in-scope public disproof receipts, counted separately |
 | Open formalization targets | 0 | in-scope confirmed targets without a verified proof |
-| Statements awaiting a formal target | 494 | in-scope nodes without a confirmed target; needs-attention subset: 306 |
-| Papers with Lean source | 72 | in-scope papers with an exact-commit paper-level source link |
+| Statements awaiting a formal target | 506 | in-scope nodes without a confirmed target; needs-attention subset: 306 |
+| Papers with Lean source | 74 | in-scope papers with an exact-commit paper-level source link |
 | Papers with a DOI | 70 | in-scope papers with a checked exact-version DOI in the public projection |
 
 
-No in-scope work carries an MSC code; 72 in-scope papers are unclassified.
+No in-scope work carries an MSC code; 74 in-scope papers are unclassified.
 
 ## Recent verified statements
 
@@ -26,6 +26,8 @@ None yet.
 
 ## Recent papers
 
+- [Exact counts and sharp growth for OEIS A222759, first comment (12 March 2013): extending Glaisher (1900)](https://mathesis-omega-research.apps.chrono-ai.fun/papers/noe-2013-a222759-prime-cube-growth?version=2) — 2026-11-22
+- [Mixed-state extensions and a proof of the Cheng–Milne–Hall–Wiseman (2016) conjecture in Sec. III C, Eq. (36)](https://mathesis-omega-research.apps.chrono-ai.fun/papers/cheng-milne-hall-wiseman-2016-four-qubit-correlation-monogamy?version=2) — 2026-11-22
 - [Proving Hanna's conjecture in OEIS A181074, Comments (2 October 2010): extensions of Moree (2003) and Gossow (2024)](https://mathesis-omega-research.apps.chrono-ai.fun/papers/hanna-a181074-binomial-exponentials?version=3) — 2026-11-22
 - [Proof of Hanna's conjecture in OEIS A181080, COMMENTS, first line: integrality and binomial-power companions](https://mathesis-omega-research.apps.chrono-ai.fun/papers/hanna-a181080-integrality?version=2) — 2026-11-22
 - [Prime-index divisibility in Hanna's OEIS A381355: Revision 13, COMMENTS, and shifted-power siblings](https://mathesis-omega-research.apps.chrono-ai.fun/papers/hanna-a381355?version=2) — 2026-11-22
@@ -34,7 +36,5 @@ None yet.
 - [Convention corrections and alternative proofs for Morken's conjectures in OEIS A112399: Revision 41, FORMULA; after Sander–Sander (2009) and Ramaré (2014–2015)](https://mathesis-omega-research.apps.chrono-ai.fun/papers/oeis-a112399-morken-first-divisor-sum?version=3) — 2026-11-22
 - [A restoring and divisor-sum proof of Bala's machine-3626 conjecture of 11 September 2026, OEIS A393210, Comments, revision 18: extending Sequence Machine (2026) and Wolfram (2026)](https://mathesis-omega-research.apps.chrono-ai.fun/papers/bala-machine3626-exact-halting-time?version=3) — 2026-11-22
 - [Mathar's recurrence in OEIS A174193: FORMULA, 14 June 2016: a tableau-sum evaluation extending Brignall–Ekhad–Smith–Vatter (2009)](https://mathesis-omega-research.apps.chrono-ai.fun/papers/mathar-a174193-order-four-recurrence?version=3) — 2026-11-22
-- [Permuted rotor loops beyond Jenzer (2026): resolving Remark 5.5 (arXiv:2610.21593v1, p. 19)](https://mathesis-omega-research.apps.chrono-ai.fun/papers/jen2610-permuted-rotor-loops?version=5) — 2026-11-22
-- [Khesin–Li (2024), Section 8, Conjecture 8.3: An elementary proof and a sharp correction to Proposition 8.2](https://mathesis-omega-research.apps.chrono-ai.fun/papers/khesin-li-2024-bipartite-encoder-equivalence?version=2) — 2026-11-22
 
 [Full catalog](https://github.com/mathesis-papers/catalog) · [Formalization repository](https://github.com/mathesis-papers/formalization) · [Mathesis site](https://mathesis-omega-research.apps.chrono-ai.fun) · [Formalization directory](https://mathesis-omega-research.apps.chrono-ai.fun/formalizations)
