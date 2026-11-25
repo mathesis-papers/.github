@@ -2,23 +2,23 @@
 
 Public papers and formalization results of Mathesis, operated by Chrono AI.
 
-Snapshot time: `2026-11-25T13:32:01.245098576Z` UTC. Counts cover current public versions of in-scope archive works. Each scope sentence describes the counted set.
+Snapshot time: `2026-11-25T17:30:17.784948687Z` UTC. Counts cover current public versions of in-scope archive works. Each scope sentence describes the counted set.
 
 | Metric | Count | Scope |
 |---|---:|---|
-| Public papers | 190 | in-scope collected works and exactly consented accepted author papers |
-| Registered statements | 1304 | in-scope nodes of selected versions, deduplicated by identity |
+| Public papers | 198 | in-scope collected works and exactly consented accepted author papers |
+| Registered statements | 1361 | in-scope nodes of selected versions, deduplicated by identity |
 | Independently verified statements | 0 | in-scope nodes with an exact target and matching public receipt |
 | Verified from existing library declarations | 0 | in-scope verified nodes whose receipt basis is library declarations |
 | Verified with new Lean | 0 | in-scope verified nodes whose receipt basis is new Lean |
 | Verified counterexamples / disproofs | 0 | in-scope public disproof receipts, counted separately |
 | Open formalization targets | 0 | in-scope confirmed targets without a verified proof |
-| Statements awaiting a formal target | 1304 | in-scope nodes without a confirmed target; needs-attention subset: 306 |
-| Papers with Lean source | 190 | in-scope papers with an exact-commit paper-level source link |
-| Papers with a DOI | 188 | in-scope papers with a checked exact-version DOI in the public projection |
+| Statements awaiting a formal target | 1361 | in-scope nodes without a confirmed target; needs-attention subset: 298 |
+| Papers with Lean source | 197 | in-scope papers with an exact-commit paper-level source link |
+| Papers with a DOI | 187 | in-scope papers with a checked exact-version DOI in the public projection |
 
 
-No in-scope work carries an MSC code; 190 in-scope papers are unclassified.
+No in-scope work carries an MSC code; 198 in-scope papers are unclassified.
 
 ## Recent verified statements
 
@@ -26,15 +26,15 @@ None yet.
 
 ## Recent papers
 
+- [Proof of Notik's Singer-ruler conjecture with sparse certificates](https://mathesis-omega-research.apps.chrono-ai.fun/papers/notik-singer-chamber?version=3) — 2026-11-25
+- [Almost palindromicity of Okada's pre-merged determinants](https://mathesis-omega-research.apps.chrono-ai.fun/papers/okada-2020-premerged-determinant-nonpalindromic?version=3) — 2026-11-25
+- [Examples answering Bergman's Question 15 by extending a partition of von zur Gathen and Roche](https://mathesis-omega-research.apps.chrono-ai.fun/papers/bergman-question15?version=5) — 2026-11-25
+- [Alternative proofs of Hohn's divisibility conjectures after Kontorovich and Stong](https://mathesis-omega-research.apps.chrono-ai.fun/papers/hohn-a390148-split-prime-shared-divisibility?version=2) — 2026-11-25
+- [Switching reachability in twisted exclusion processes: extensions of Dabrowski, Poulain d'Andecy and Ragoucy's sector classification](https://mathesis-omega-research.apps.chrono-ai.fun/papers/dabrowski-poulain-ragoucy-2026-switched-ssep-reachability?version=2) — 2026-11-25
+- [Convergence of Chen and Lin's direction-flip threshold](https://mathesis-omega-research.apps.chrono-ai.fun/papers/chen-lin-direction-flip-threshold-limit?version=2) — 2026-11-25
+- [Hardin and Barker's strip-coloring formulas: an extension of Britnell and Wildon's enumeration](https://mathesis-omega-research.apps.chrono-ai.fun/papers/hardin-barker-six-column-colorings?version=2) — 2026-11-25
+- [Parity in Sahasrabudhe's additive-complexity question: extending Banero's morphism criterion](https://mathesis-omega-research.apps.chrono-ai.fun/papers/sahas2015-even-additive-complexity-morphisms?version=2) — 2026-11-25
+- [Factorial bounds and sharp onsets for A281428: extending Su (2026) on Bala's COMMENTS, items 1–2](https://mathesis-omega-research.apps.chrono-ai.fun/papers/bala281428-factorial-valuations?version=2) — 2026-11-25
 - [Extensions of Ma–Zhang's negative answer to Delgado, Süer and Yeşil's symmetrization question](https://mathesis-omega-research.apps.chrono-ai.fun/papers/delgado-suer-yesil-2026-symmetrization-surjectivity?version=4) — 2026-11-24
-- [Extending Meddaugh and Stephens' examples to every finite neighborhood-shadowing separation](https://mathesis-omega-research.apps.chrono-ai.fun/papers/meddaugh-stephens-2025-neighborhood-shadowing-hierarchy?version=2) — 2026-11-24
-- [Extensions of Shrock's and Yurishchev's formulas to Hardin's defective-colouring recurrences](https://mathesis-omega-research.apps.chrono-ai.fun/papers/hardin229634-defective-colourings?version=2) — 2026-11-24
-- [Kimberling's rational-enumeration conjecture: an extension of the BMO–Kepler closure lemma](https://mathesis-omega-research.apps.chrono-ai.fun/papers/kimberling-rational-enumeration?version=2) — 2026-11-24
-- [A signed-weight extension of Frid's recurrence for the Thue–Morse prefix problems of Ambrož, Kadlec, Masáková and Pelantová](https://mathesis-omega-research.apps.chrono-ai.fun/papers/ambroz-kadlec-masakova-pelantova-thue-morse-prefix-costs?version=2) — 2026-11-24
-- [Hamming extensions and a short proof from Mináč et al.'s cycle answering Nguyen and Tân's primeness question](https://mathesis-omega-research.apps.chrono-ai.fun/papers/nguyen-tan-unitary-cayley-prime-zero-eigenvalue?version=2) — 2026-11-24
-- [An alternative proof of Ianakiev's shortest-palindrome conjecture via Fici and collaborators' Zimin-word theorem](https://mathesis-omega-research.apps.chrono-ai.fun/papers/oeis-a094373-ianakiev-shortest-ruler-palindrome?version=2) — 2026-11-24
-- [Sharp thresholds for Dietz, Flowers and Lockard's self-conjugate partition questions: extending Flowers and Lockard's construction](https://mathesis-omega-research.apps.chrono-ai.fun/papers/dfl514-selfconj?version=2) — 2026-11-24
-- [A three-point negative answer to Luo–McCullough–Tsikalas's pseudo-Pick quotient question](https://mathesis-omega-research.apps.chrono-ai.fun/papers/luo-mccullough-tsikalas-pseudo-pick-quotient?version=2) — 2026-11-24
-- [Proof of Hanna's square-exponent congruence and an extension of Fried's divisor-sum formula](https://mathesis-omega-research.apps.chrono-ai.fun/papers/hanna-square-exponent-and-related-congruences?version=2) — 2026-11-24
 
 [Full catalog](https://github.com/mathesis-papers/catalog) · [Formalization repository](https://github.com/mathesis-papers/formalization) · [Mathesis site](https://mathesis-omega-research.apps.chrono-ai.fun) · [Formalization directory](https://mathesis-omega-research.apps.chrono-ai.fun/formalizations)
