@@ -2,23 +2,23 @@
 
 Public papers and formalization results of Mathesis, operated by Chrono AI.
 
-Snapshot time: `2026-11-27T21:31:21.593830678Z` UTC. Counts cover current public versions of in-scope archive works. Each scope sentence describes the counted set.
+Snapshot time: `2026-11-27T22:31:39.607107377Z` UTC. Counts cover current public versions of in-scope archive works. Each scope sentence describes the counted set.
 
 | Metric | Count | Scope |
 |---|---:|---|
-| Public papers | 225 | in-scope collected works and exactly consented accepted author papers |
-| Registered statements | 1534 | in-scope nodes of selected versions, deduplicated by identity |
+| Public papers | 227 | in-scope collected works and exactly consented accepted author papers |
+| Registered statements | 1544 | in-scope nodes of selected versions, deduplicated by identity |
 | Independently verified statements | 0 | in-scope nodes with an exact target and matching public receipt |
 | Verified from existing library declarations | 0 | in-scope verified nodes whose receipt basis is library declarations |
 | Verified with new Lean | 0 | in-scope verified nodes whose receipt basis is new Lean |
 | Verified counterexamples / disproofs | 0 | in-scope public disproof receipts, counted separately |
 | Open formalization targets | 0 | in-scope confirmed targets without a verified proof |
-| Statements awaiting a formal target | 1534 | in-scope nodes without a confirmed target; needs-attention subset: 286 |
-| Papers with Lean source | 224 | in-scope papers with an exact-commit paper-level source link |
-| Papers with a DOI | 218 | in-scope papers with a checked exact-version DOI in the public projection |
+| Statements awaiting a formal target | 1544 | in-scope nodes without a confirmed target; needs-attention subset: 286 |
+| Papers with Lean source | 225 | in-scope papers with an exact-commit paper-level source link |
+| Papers with a DOI | 219 | in-scope papers with a checked exact-version DOI in the public projection |
 
 
-No in-scope work carries an MSC code; 225 in-scope papers are unclassified.
+No in-scope work carries an MSC code; 227 in-scope papers are unclassified.
 
 ## Recent verified statements
 
@@ -26,6 +26,8 @@ None yet.
 
 ## Recent papers
 
+- [The prefix-reversal triple-count conjecture of Blanco et al.: four coefficients from the method of Lei et al.](https://mathesis-omega-research.apps.chrono-ai.fun/papers/prefix-reversal-triple-count?version=2) — 2026-11-27
+- [Kurkov’s composite-term conjecture via Halbeisen and Hungerbühler’s reduction lemma](https://mathesis-omega-research.apps.chrono-ai.fun/papers/kurkov-a248667?version=2) — 2026-11-27
 - [Proof of Hardin's recurrence for two-defect strips](https://mathesis-omega-research.apps.chrono-ai.fun/papers/hardin229697?version=4) — 2026-11-27
 - [Counterexamples to Banić and Elezović's cyclic-dispersion monotonicities](https://mathesis-omega-research.apps.chrono-ai.fun/papers/banic-elezovic-2026-cyclic-dispersion-monotonicities?version=3) — 2026-11-27
 - [An invertible counterexample to Peng's zero-dimensional shadowing-extension question](https://mathesis-omega-research.apps.chrono-ai.fun/papers/peng-zero-dimensional-shadowing-extension?version=2) — 2026-11-27
@@ -34,7 +36,5 @@ None yet.
 - [Karttunen's radical-quotient conjecture for two divisor sums](https://mathesis-omega-research.apps.chrono-ai.fun/papers/oeis-a401714-unitary-squarefree-divisor-sum?version=2) — 2026-11-27
 - [Collins and Sciriha's main-spectrum question for canonical double covers: A direct proof and a common relabelling](https://mathesis-omega-research.apps.chrono-ai.fun/papers/collins-sciriha-main-spectrum-double-cover?version=3) — 2026-11-27
 - [The Lagarias–Sun size and perimeter conjectures for reciprocal supernorms](https://mathesis-omega-research.apps.chrono-ai.fun/papers/lagarias-sun-2024-supernorm-size-asymptotic?version=2) — 2026-11-27
-- [The minimum rectangular size in Su and Hu's negative-association problem](https://mathesis-omega-research.apps.chrono-ai.fun/papers/su-hu-2026-minimum-rectangular-size?version=2) — 2026-11-27
-- [Hägele’s (3,3) refined BMV lower bound in all dimensions](https://mathesis-omega-research.apps.chrono-ai.fun/papers/hagele-2026-refined-bmv-33-all-dimensions?version=2) — 2026-11-27
 
 [Full catalog](https://github.com/mathesis-papers/catalog) · [Formalization repository](https://github.com/mathesis-papers/formalization) · [Mathesis site](https://mathesis-omega-research.apps.chrono-ai.fun) · [Formalization directory](https://mathesis-omega-research.apps.chrono-ai.fun/formalizations)
