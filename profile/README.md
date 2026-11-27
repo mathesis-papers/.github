@@ -2,7 +2,7 @@
 
 Public papers and formalization results of Mathesis, operated by Chrono AI.
 
-Snapshot time: `2026-11-27T16:32:57.91816464Z` UTC. Counts cover current public versions of in-scope archive works. Each scope sentence describes the counted set.
+Snapshot time: `2026-11-27T17:31:39.182537232Z` UTC. Counts cover current public versions of in-scope archive works. Each scope sentence describes the counted set.
 
 | Metric | Count | Scope |
 |---|---:|---|
@@ -15,7 +15,7 @@ Snapshot time: `2026-11-27T16:32:57.91816464Z` UTC. Counts cover current public 
 | Open formalization targets | 0 | in-scope confirmed targets without a verified proof |
 | Statements awaiting a formal target | 1510 | in-scope nodes without a confirmed target; needs-attention subset: 286 |
 | Papers with Lean source | 219 | in-scope papers with an exact-commit paper-level source link |
-| Papers with a DOI | 213 | in-scope papers with a checked exact-version DOI in the public projection |
+| Papers with a DOI | 214 | in-scope papers with a checked exact-version DOI in the public projection |
 
 
 No in-scope work carries an MSC code; 220 in-scope papers are unclassified.
