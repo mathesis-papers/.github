@@ -2,23 +2,23 @@
 
 Public papers and formalization results of Mathesis, operated by Chrono AI.
 
-Snapshot time: `2026-11-27T18:34:41.029974996Z` UTC. Counts cover current public versions of in-scope archive works. Each scope sentence describes the counted set.
+Snapshot time: `2026-11-27T19:31:34.498270309Z` UTC. Counts cover current public versions of in-scope archive works. Each scope sentence describes the counted set.
 
 | Metric | Count | Scope |
 |---|---:|---|
-| Public papers | 222 | in-scope collected works and exactly consented accepted author papers |
-| Registered statements | 1516 | in-scope nodes of selected versions, deduplicated by identity |
+| Public papers | 223 | in-scope collected works and exactly consented accepted author papers |
+| Registered statements | 1524 | in-scope nodes of selected versions, deduplicated by identity |
 | Independently verified statements | 0 | in-scope nodes with an exact target and matching public receipt |
 | Verified from existing library declarations | 0 | in-scope verified nodes whose receipt basis is library declarations |
 | Verified with new Lean | 0 | in-scope verified nodes whose receipt basis is new Lean |
 | Verified counterexamples / disproofs | 0 | in-scope public disproof receipts, counted separately |
 | Open formalization targets | 0 | in-scope confirmed targets without a verified proof |
-| Statements awaiting a formal target | 1516 | in-scope nodes without a confirmed target; needs-attention subset: 286 |
-| Papers with Lean source | 221 | in-scope papers with an exact-commit paper-level source link |
-| Papers with a DOI | 214 | in-scope papers with a checked exact-version DOI in the public projection |
+| Statements awaiting a formal target | 1524 | in-scope nodes without a confirmed target; needs-attention subset: 286 |
+| Papers with Lean source | 222 | in-scope papers with an exact-commit paper-level source link |
+| Papers with a DOI | 216 | in-scope papers with a checked exact-version DOI in the public projection |
 
 
-No in-scope work carries an MSC code; 222 in-scope papers are unclassified.
+No in-scope work carries an MSC code; 223 in-scope papers are unclassified.
 
 ## Recent verified statements
 
@@ -26,6 +26,7 @@ None yet.
 
 ## Recent papers
 
+- [An invertible counterexample to Peng's zero-dimensional shadowing-extension question](https://mathesis-omega-research.apps.chrono-ai.fun/papers/peng-zero-dimensional-shadowing-extension?version=2) — 2026-11-27
 - [Gy's triple-product inequalities: nonnegativity and counterexamples to coefficient log-concavity](https://mathesis-omega-research.apps.chrono-ai.fun/papers/gy26c51-affine-coefficient-log-concavity?version=3) — 2026-11-27
 - [Prime-factor densities in Euler forms: a refutation of Zelinsky's Conjecture 1](https://mathesis-omega-research.apps.chrono-ai.fun/papers/zelinsky-2021-conjecture-1-or-density?version=2) — 2026-11-27
 - [Karttunen's radical-quotient conjecture for two divisor sums](https://mathesis-omega-research.apps.chrono-ai.fun/papers/oeis-a401714-unitary-squarefree-divisor-sum?version=2) — 2026-11-27
@@ -35,6 +36,5 @@ None yet.
 - [Hägele’s (3,3) refined BMV lower bound in all dimensions](https://mathesis-omega-research.apps.chrono-ai.fun/papers/hagele-2026-refined-bmv-33-all-dimensions?version=2) — 2026-11-27
 - [Hanna's coefficient-positivity conjecture and the growth of its generating function](https://mathesis-omega-research.apps.chrono-ai.fun/papers/hanna-a382316?version=2) — 2026-11-27
 - [McCormack and Zelinsky's Question 38 and a carry graph for strongly pseudoperfect families](https://mathesis-omega-research.apps.chrono-ai.fun/papers/mccormack-zelinsky-2023-question-38?version=2) — 2026-11-27
-- [Nonuniqueness in Vega Coso's question on accidental neutrality](https://mathesis-omega-research.apps.chrono-ai.fun/papers/vega-coso-spectral-duality-uniqueness?version=3) — 2026-11-27
 
 [Full catalog](https://github.com/mathesis-papers/catalog) · [Formalization repository](https://github.com/mathesis-papers/formalization) · [Mathesis site](https://mathesis-omega-research.apps.chrono-ai.fun) · [Formalization directory](https://mathesis-omega-research.apps.chrono-ai.fun/formalizations)
